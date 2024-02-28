@@ -40,9 +40,8 @@ export default function Home() {
 			>
 				Save Text
 			</button>
-			<button>Delete text</button>
-			className="text-2xl ml-8 font-bold border-4 px-2 ring-offset-black ring-offset-8s rounded-xl bg-violet-500 hover:bg-violet-600 shadow-2xl"
-				onClick={() => {
+		
+
 		</div>
 	)
 }
